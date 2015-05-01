@@ -1,0 +1,14 @@
+{
+	"chrome_extension_description": {
+    	"message": "Позволяет посмотреть информацию о продавце в Интернет-аукционах на платформе Аллегро, его рейтинг и отзывы."
+   	},
+   	"chrome_extension_name": {
+		"message": "Помощник покупателя Аллегро"
+   	},
+   	"chrome_extension_short_name": {
+		"message": "Помощник покупателя Аллегро"
+   	},
+   	"abh_user": {
+		"message": "Продавец"
+   	}
+}

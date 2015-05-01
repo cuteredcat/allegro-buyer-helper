@@ -1,0 +1,14 @@
+{
+	"chrome_extension_description": {
+    	"message": "Allows you to check the seller in Internet auctions based on Allegro, his detailed ratings and customer reviews."
+   	},
+   	"chrome_extension_name": {
+		"message": "Allegro Buyer Helper"
+   	},
+   	"chrome_extension_short_name": {
+		"message": "Allegro Buyer Helper"
+   	},
+   	"abh_user": {
+		"message": "Seller"
+   	}
+}
